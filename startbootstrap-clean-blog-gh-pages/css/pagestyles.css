@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(12, 196, 12, 0.324);
+    text-align:left;
+    color: green;
+}
+.Header{
+    font-family:fantasy
+}
+.links{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}  
+.Resume{
+    text-align: left;  
+    font-style: oblique;
+    
+}
+ul{
+    list-style-position: inside;
+}
